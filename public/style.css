@@ -1,0 +1,92 @@
+#fashion{
+  text-align: center;
+  background-color: #D4F5F5;
+  color: #554348
+}
+
+.h1{color: #260101;}
+
+
+
+
+
+
+
+#index{text-indent: 50px;
+background-color: #BFA8F8F;
+color:#260101;
+text-align: center;}
+
+
+.div {
+  background-color:#B58CE8;
+  border-style:dotted;
+  text-align:center;
+}
+/*body1{*/
+/*  background-color:#FF7DA1;*/
+/*  text-align:center;*/
+
+
+.new { font-family: 'Cedarville Cursive', cursive;
+  -webkit-border-radius: 30;
+ -moz-border-radius: 46;
+ border-radius: 46px;
+ color:
+ font-size: 30px;
+ background: #67AFE8;
+ padding: 10px 20px 10px 20px;
+ border: solid #FFDB31 4px;
+ text-decoration:none;}
+.footer{
+   font-family: 'Cedarville Cursive', cursive;
+  font-size:30px;
+}
+
+/*#icon {height: 10%; width: 10%;*/
+  
+/*}*/
+
+
+
+
+/*div id="inp"{*/
+/*  background-color:#0BB4C1;*/
+/*  border-style:dotted;*/
+/*  text-align:center;*/
+/*  text-color*/
+/*}*/
+.inspiration {
+  background-color:#0085B6;
+  text-align:center;
+}
+
+#p {
+  background-color:#9FE3DD;
+  font-family: 'Georgia';
+}
+
+
+
+
+
+
+body {
+  background-color:#233D4D;
+}
+
+div {
+  border-style:dotted;
+  background-color:#FCCA46;
+}
+
+box {
+ border-style:dotted;
+  background-color:#FE7F2D;
+  text-align:center;
+}
+
+box2 {
+  border-style: dotted;
+  background-color:#A1C181; 
+  text-align:center;

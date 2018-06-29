@@ -1,16 +1,23 @@
-require_relative 'config/environment'
+require 'bundler'
+Bundler.require
 
 class App < Sinatra::Base
-  get '/reverse' do
-    erb :reverse
+  get '/' do
+    erb :index
   end
-
-  post '/reverse' do
-    erb :reversed
+  
+  get '/Fashion_Ideas'do 
+    erb :fashion_ideas
+  end 
+  
+  get '/Inspiration'do
+    erb :inspiration
   end
+  
+  get '/Personalized_Music'do
+    erb :personalized_music
+ end
 
-  get '/friends' do
-    # Write your code here!
+    end 
+  
 
-  end
-end
